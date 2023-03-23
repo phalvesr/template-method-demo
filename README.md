@@ -3,7 +3,7 @@
 
 > Define o esqueleto de um algoritmo em uma operação, delegando alguns passos a subclasses. Faz com que classes mais especializadas implementem partes do algoritmo original, mas sem a capacidade de alterá-lo.
 
-![Diagrama Template Method](/docs/img/template-method-structure.png)
+![Diagrama Template Method](/doc/img/template-method-structure.png)
 
 ## Estudo de caso "Criação/Atualização cadastral em Renda Fixa"
 
